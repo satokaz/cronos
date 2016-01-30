@@ -1,8 +1,9 @@
 # **ABOUT**
 ## This is an explenation about Cronos. 
 
-Cronos is an extension that will works in some way similary to a Time Machine for Mac's. ¿What is the difference then?.
-Well, below I will describe some features.
+Cronos will help you to keep all the changes that you have made onto your files. This mean, even if you close the Visual Studio windows, you can have access to your old changes. So don't worry if you turn off your computer and don't remember what changes have you made to your code,becuase using the dashboard panel you will have always access to your code.
+
+### Some features.
 
 * You just need your Visual Studio Code which works in Windows, Linux and Mac.
 * All your files will be save into your project folder.
