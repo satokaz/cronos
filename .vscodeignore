@@ -1,7 +1,7 @@
 .vscode/**
 typings/**
-**/*out/
-**/*test/
+out/**
+test/**
 src/**
 **/*.map
 .gitignore

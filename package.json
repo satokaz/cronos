@@ -25,7 +25,7 @@
 	"main": "./out/src/extension",
 	"contributes": {
 		"commands": [{
-			"command": "extension.crono",
+			"command": "extension.cronos",
 			"title": "Cronos"
 		}]
 	},
