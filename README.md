@@ -17,6 +17,7 @@ Cronos will help you to keep all the changes that you have made onto your files.
 
 Open a project folder where you're going to work and then press `F1` or `Fn + F1`. Then type *cronos* and then `Enter`.
 
+
 >**Note**: You can type *cronos* using uppercase or lowercase.
 
 >**Important**: The extension will works only if you open a folder and not if you open a single file to edit It.
