@@ -1,8 +1,8 @@
 .vscode/**
 typings/**
-src/**
-**/*out/test/**
+**/*out/
 **/*test/
+src/**
 **/*.map
 .gitignore
 tsconfig.json

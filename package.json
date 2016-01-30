@@ -1,19 +1,17 @@
 {
-	"name": "cronos",
-	"displayName": "Cronos",
+	"name": "Cronos",
+	"displayName": "Cronos files changes",
 	"description": "Will save all the changes that you've made onto your files.",
 	"version": "0.0.1",
-	"publisher": "Diego",
+	"publisher": "DiegoMolina",
     "icon":"images/cronos.svg",
     "bugs": {
         "url": "https://github.com/DracotMolver/cronos/issues"
     },
-    "homepage":{
-        "homepage": "https://github.com/DracotMolver/cronos/blob/master/README.md"
-    },
+    "homepage": "https://github.com/DracotMolver/cronos/tree/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DracotMolver/cronos"
+        "url": "https://github.com/DracotMolver/cronos.git"
     },
 	"engines": {
 		"vscode": "^0.10.1"
@@ -27,7 +25,7 @@
 	"main": "./out/src/extension",
 	"contributes": {
 		"commands": [{
-			"command": "extension.cronos",
+			"command": "extension.crono",
 			"title": "Cronos"
 		}]
 	},
