@@ -18,6 +18,8 @@ Open a project folder where you're going to work and then press `F1` or `Fn + F1
 
 >**Note**: You can type *cronos* using uppercase or lowercase.
 
+>**Warning**: The dashboard will be displayed just for one project opened. If you have two project open the dashboard will only show you the files of the second project opened. This is because the local server (First project) will be overwrite by the second one (Second project).
+
 >**Important**: The extension will works only if you open a folder and not if you open a single file to edit It.
 
 If is the first time you're using the extension into a project, this will create (just one time) a list of folders with some files, after hitting `Enter`. Then will appears two a pop-ups; one showing
