@@ -1,6 +1,4 @@
 # **CRONOS**
-## This is an explenation about Cronos. 
-
 Cronos will help you to keep all the changes that you have made onto your files. This means, if you close your actual Visual Studio window project for any reason, you can always have access to your old files where you made changes, accessing to the dashboard panel.
 
 ## Some features
@@ -22,9 +20,10 @@ Open a project folder where you're going to work and then press `F1` or `Fn + F1
 
 >**Important**: The extension will works only if you open a folder and not if you open a single file to edit It.
 
-If is the first time you're using the extension into a project, this will create (just one time) a list of folders with some files, after hitting `Enter`. Then will appears two a pop-ups; one showing
+If this is the first time you're using the extension into a project, this will create (just one time) a list of folders with some files, after hitting `Enter`. Then will appears two a pop-ups; one showing
 the names of the files and the other showing the local url where you can have access to the dashboard using your favorite browser.
 
+!['Start Cronos'](/images/anim.gif 'Start Cronos')
 Files that will be create
 - cronostime
     - cronos.time.html
@@ -33,14 +32,15 @@ Files that will be create
    
 >**Warning** (Don't modify any of this files, because you could change the behavior of the extension).
 
-If you want to look for older files that had been modifying by you, you can access to the dashbord. Just go to
-`localhost:3000`. There you have, your dashboard.
+If you want to look for older files that had been modifed by you, Just open your favorite web broser and type `localhost:3000`. There you have, your dashboard panel.
+
+!['Cronos dashboard panel'](/images/anim2.gif 'Cronos dashboard panel')
 
 Enjoy the extension and sends me please some feedback - goods or bads.
 
 ***
 
-### **contact**
-#### you contact with me using the next ways.
+### **Feedback!**
+#### Any feedback will be recived. I'll be very grateful, Thanks.
 * dracotm25@gmail.com
 * [+DiegoMolina25](https://plus.google.com/+DiegoMolina25 "titulo")
